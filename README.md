@@ -1,7 +1,7 @@
 ### Fala Galera... 👋
 - 🔭 Desenvolvedor C#/Angular
 - 🌱 Estou estudando ferramentas do azure
-- ✉  Email: luceniom@gmail.com
+- ✉  Email: luceniosm@hotmail.com / luceniom@gmail.com
 - 📱  Celular: 67 99250-8872
 
 <div>
