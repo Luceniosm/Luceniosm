@@ -1,6 +1,6 @@
 ### Fala Galera... 👋
 - 🔭 Desenvolvedor C#/Angular
-- 🌱 Estou estudando ferramentas do azure e angular
+- 🌱 Estou estudando ferramentas IA Com crypto
 - ✉  Email: luceniosm@hotmail.com / luceniom@gmail.com
 - 📱  Celular: 67 99250-8872
 
@@ -40,7 +40,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Hoje eu trabalho com C# no backend e Angular no frontend
-- 🌱 Estou estudando ferramentas do azure
+- 🌱 Estou estudando ferramentas de IA com Crypto
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
