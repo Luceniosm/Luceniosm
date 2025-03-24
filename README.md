@@ -1,6 +1,6 @@
 ### Fala Galera... 👋
-- 🔭 Desenvolvedor C#/Angular
-- 🌱 Estou estudando ferramentas IA Com crypto
+- 🔭 Desenvolvedor Sênior | .NET | Back-end | C#
+- 🌱 Estou estudando ferramentas IA da desenvolvimento de aplicações
 - ✉  Email: luceniosm@hotmail.com / luceniom@gmail.com
 - 📱  Celular: 67 99250-8872
 
